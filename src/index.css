@@ -26,4 +26,7 @@ body {
   h3 {
     @apply text-4xl font-bold text-darkGrayishBlue md:text-5xl text-center;
   }
+  h5 {
+    @apply font-semibold text-2xl mb-2;
+  }
 }
