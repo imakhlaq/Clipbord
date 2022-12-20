@@ -1,10 +1,10 @@
 import Hero from "./components/UI/Hero";
-import Feature from "./components/UI/Feature";
+import Discription from "./components/UI/Discription";
 function App() {
   return (
     <div className="App">
       <Hero />
-      <Feature />
+      <Discription />
     </div>
   );
 }

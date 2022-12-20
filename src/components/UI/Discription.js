@@ -1,4 +1,4 @@
-const Feature = (props) => {
+const Discription = (props) => {
   return (
     <section>
       <div className="section-con my-20 px-10">
@@ -13,4 +13,4 @@ const Feature = (props) => {
     </section>
   );
 };
-export default Feature;
+export default Discription;

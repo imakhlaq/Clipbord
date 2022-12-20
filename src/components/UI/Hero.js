@@ -5,7 +5,7 @@ const Hero = (props) => {
       <div className="section-con mb-40 px-10 pt-16">
         <img src={logo} alt="logo" className="mx-auto my-16" />
         <h3>A history of everything you copy</h3>
-        <p className="max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue">
+        <p className="max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue mt-8">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione,
           consequatur corrupti? Nostrum eaque deleniti
         </p>
